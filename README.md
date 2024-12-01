@@ -1,1 +1,1 @@
-```vernam cipher (one time pad algorithm)```
+```improved Vernam Cipher; one-time pad (OTP) algorithm```
